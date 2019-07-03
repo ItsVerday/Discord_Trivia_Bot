@@ -1,0 +1,4 @@
+**Trivia Bot** help:
+- Use the command `t?start` to start a round of trivia in the current channel!
+- If you want to change the amount of questions, difficulty, answering time, etc., use `t?start <question count> <time per question (seconds)> <difficulty>`.
+- The bot will automatically keep track of correct answers, the top players, and more.
